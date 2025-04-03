@@ -13,7 +13,7 @@ Whether it’s gameplay programming, asset creation, or systems design, I’m al
 ### Unity
 - [spin the clock](./Unity/Spin_the_clock/STC.md)
 ### Unreal Engine
-- [MMO RPG](./UE/MMORPG/MMORPG.md)
+- [MMORPG](./UE/MMORPG/MMORPG.md)
 - [Hospital Rush](./UE/HospitalRush/HospitalRush.md)
 ### Blender
 - [Cyn](./Blender/Cyn/Cyn.md)
