@@ -16,3 +16,51 @@ The explosions can destroy brick walls, some of which drop power-ups—including
 I handled everything myself, including all core systems, mechanics, and visuals (the level layouts were provided in the assignment). There was no audio implementation, but the game was fully playable and functional. The whole development process lasted around three months, starting in October 2023.
 
 If I were to revisit the project, I’d move away from UDP in favor of TCP or a higher-level networking library to ensure better reliability, and I’d likely build it in Unity or Unreal Engine to push the visuals further and streamline development. That said, for a self-made game with real-time multiplayer using only low-level tools, I’m proud of how well it turned out.
+
+## Assets
+
+<img src="./images/ground.png" width="10%"/>
+<img src="./images/wall.png" width="10%"/>
+<img src="./images/indestructible_wall.png" width="10%"/>
+
+<img src="./images/bomb.png" width="10%"/>
+<img src="./images/remote.png" width="10%"/>
+<img src="./images/mine.png" width="10%"/>
+<img src="./images/fire.png" width="10%"/>
+<img src="./images/pickup_bomb.png" width="10%"/>
+<img src="./images/pickup_fire_minus.png" width="10%"/>
+<img src="./images/pickup_fire_plus.png" width="10%"/>
+<img src="./images/pickup_life.png" width="10%"/>
+<img src="./images/pickup_mine.png" width="10%"/>
+<img src="./images/pickup_remote.png" width="10%"/>
+<img src="./images/pickup_sheild.png" width="10%"/>
+<img src="./images/shieldBuff4.png" width="10%"/>
+
+<img src="./images/up1.png" width="10%"/>
+<img src="./images/up2.png" width="10%"/>
+<img src="./images/down1.png" width="10%"/>
+<img src="./images/down2.png" width="10%"/>
+<img src="./images/left1.png" width="10%"/>
+<img src="./images/left2.png" width="10%"/>
+<img src="./images/right1.png" width="10%"/>
+<img src="./images/right2.png" width="10%"/>
+
+## screenshots
+
+Game/server selection:
+
+<img src="./images/server_select.jpg" width="45%">
+<img src="./images/game_create_1.jpg" width="45%">
+<img src="./images/game_create_2.jpg" width="45%">
+<img src="./images/join_game.jpg" width="45%">
+
+Map 1:
+
+<img src="./images/map_1.jpg" width="45%">
+<img src="./images/placed_bomb.jpg" width="45%">
+<img src="./images/bomb_explosion.jpg" width="45%">
+<img src="./images/pickups.jpg" width="45%">
+
+Map 2 with 2 player:
+
+<img src="./images/map_2.jpg" width="75%">

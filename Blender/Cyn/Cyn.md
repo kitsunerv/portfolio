@@ -40,6 +40,11 @@ This project has not only sharpened my modeling and rigging workflow, it’s als
 <img src="./images/cyn_teaser.webp" width="20%"/>
 <img src="./images/Cyn_Art.jpg" width="27.5%"/>
 
+*extras*
+
+<img src="./images/heart.webp" width="45%"/>
+<img src="./images/hand_tentacle.jpg" width="45%"/>
+
 Why i find the face so complicated:
 
 - from wide toothy grin taking up the whole bottom part of the face
@@ -194,5 +199,5 @@ fixed issue 1:
 
 *extra: progress on the core:*
 
-<img src="./images/core_progress.png" width="30%"/>
+<img src="./images/core_progress.png" width="60%"/>
 <img src="./images/core_flesh.png" width="30%"/>

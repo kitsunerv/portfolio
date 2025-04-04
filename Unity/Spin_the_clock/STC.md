@@ -11,3 +11,14 @@ We were a team of five students, and collaboration was a challenge in itself—e
 Looking back, I’m still proud of what we managed to pull off given the situation and our limited experience. That said, Spin the Clock is a project I’d love to revisit one day. The original version had a mix of inconsistent themes—a steampunk robot protagonist battling laser-wielding wizards in a world of giant rotating clocks floating in a white void, ending in a strange chase sequence. While quirky, it lacked cohesion.
 
 With the skills I’ve gained since then, I’d overhaul the art direction, narrative, and mechanics to give the game a stronger identity and more engaging level design. It was a messy start, but it lit the spark—and taught me a lot about working in teams, solving design problems, and finishing a project under tough conditions.
+
+## Screenshots
+Original map concept:
+
+<img src="./images/map_concept.png" width="70%">
+
+In editor screenshot:
+
+<img src="./images/current_map.jpg" width="49%">
+<img src="./images/level_1.jpg" width="50%">
+<img src="./images/tutorial.jpg">
