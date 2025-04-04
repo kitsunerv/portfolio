@@ -1,5 +1,6 @@
 # Bomberman Multiplayer
 
+[Home](../../README.md)
 ## Java (Swing, UDP Networking) – LAN Game – School Project – 2023
 
 This project was built as part of a networking course, where the challenge was to create a real-time multiplayer game with custom server-client architecture. I chose to recreate a Bomberman-style game with support for multiple simultaneous matches, and implemented both the game logic and the networking layer from scratch using Java.

@@ -1,5 +1,6 @@
 # Spin the Clock
 
+[Home](../../README.md)
 ## Unity – 2D Puzzle Platformer – School Project – 2020
 
 Spin the Clock was my very first team-based game project—a 2D puzzle platformer developed as a school assignment during the early days of the COVID-19 lockdown. The core mechanic revolved around manipulating the level layout to create paths to the exit, the inspiration for this were what we refered to as "pipe puzzles" where you'd need to rotate pipes to create a water flow.

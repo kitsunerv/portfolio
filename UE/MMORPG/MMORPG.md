@@ -1,5 +1,6 @@
 # MMORPG Prototype – AI Behavior & Quest System
 
+[Home](../../README.md)
 ## Unreal Engine 5 – Blueprint (Porting to C++) – Team Project – Ongoing (Since Oct 2024)
 
 This project is an early-stage prototype for a multiplayer RPG developed in collaboration with another teammate. My primary responsibility is designing and implementing the AI behavior systems as well as a dialogue and quest framework for NPCs.

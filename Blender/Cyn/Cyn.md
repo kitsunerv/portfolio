@@ -1,5 +1,6 @@
 # Blender Character Model – Cyn (Murder Drones Fan Project)
 
+[Home](../../README.md)
 ## Blender – Custom Rig – Ongoing Solo Project – 2024–now
 
 This project is a detailed fan recreation of Cyn, a character from the indie web series Murder Drones by Glitch Productions. It began as a way to explore various aspects of character modeling and rigging in Blender, and over time evolved into a full-featured learning project with the goal of producing a model that is ultimately animation-ready.

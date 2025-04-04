@@ -1,5 +1,6 @@
 # Snake Pseudo-AI
 
+[Home](../../README.md)
 ## Java – Terminal Game – Personal Project – 2021
 
 This project was a personal challenge inspired by the YouTuber CodeBullet’s infamous Snake AI. I wanted to create my own self-playing version of Snake from scratch, and in doing so, I explored rule-based logic, AI behavior, and good old-fashioned problem-solving.

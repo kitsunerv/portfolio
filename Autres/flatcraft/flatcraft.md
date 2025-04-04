@@ -1,5 +1,6 @@
 # Flatcraft – Village Generation & Loot System
 
+[Home](../../README.md)
 ## Java – 2D Sandbox – Solo Project – 2022
 
 Flatcraft was a school project where we were handed the source code for a simple 2D Minecraft-inspired game and tasked with expanding its features. The original base was fairly barebones: a flat, tile-based world with basic terrain generation (grass, trees, ores), grid-locked player movement, and simple crafting and smelting systems. The player was represented by the tool they held, and movement felt stiff and primitive.
