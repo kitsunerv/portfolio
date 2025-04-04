@@ -1,4 +1,4 @@
-# Ambulance Simulator – AI Management Game
+# Hospital Rush
 
 ## Unreal Engine 5 – Solo Project – 2024
 
@@ -15,3 +15,43 @@ One of the biggest technical challenges was implementing Dijkstra’s algorithm 
 Looking ahead, I want to introduce rush hour waves where victims spawn at a much higher rate, and add penalty mechanics—such as a timer that causes uncollected victims to disappear, costing the player money. Reaching too many failed pickups would result in a game over, encouraging strategic use of AI units.
 
 This game has been a great playground for blending AI systems, UI design, and simulation mechanics—and a solid solo test of both Unreal Engine and general game design. I'm also really please with the low poly assets i've made for this project as they create this really nice, almost cartoony, vibe.
+
+
+## Assets
+Road tiles:
+
+<img src="./images/road_tiles.jpg" width="40%"/>
+
+Buildings: 
+
+<img src="./images/appartements.jpg" width="40%"/>
+<img src="./images/hospital.jpg" width="40%"/>
+<img src="./images/park.jpg" width="40%"/>
+<img src="./images/Parking_lot.jpg" width="40%"/>
+<img src="./images/shop.jpg" width="40%"/>
+<img src="./images/skyscrapers.jpg" width="40%"/>
+<img src="./images/sportsfield.jpg" width="40%"/>
+
+Ambulance:
+
+<img src="./images/ambulances.jpg" width="80%"/>
+
+Accidents:
+
+<img src="./images/accidents.jpg" width="80%"/>
+
+
+## project snippets:
+
+Navigation graph of the map:
+
+<img src="./images/nav_graph.jpg" width="40%"/>
+
+
+Gamplay screenshot:
+
+<img src="./images/ingame_footage.jpg" width="80%"/>
+
+Map: 
+
+<img src="./images/game_map.jpg" width="80%"/>
