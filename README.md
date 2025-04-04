@@ -11,13 +11,13 @@ Whether it’s gameplay programming, asset creation, or systems design, I’m al
 
 ## Projects overviews:
 ### Unity
-- [spin the clock](./Unity/Spin_the_clock/STC.md)
+- [spin the clock (2020)](./Unity/Spin_the_clock/STC.md)
 ### Unreal Engine
-- [MMORPG](./UE/MMORPG/MMORPG.md)
-- [Hospital Rush](./UE/HospitalRush/HospitalRush.md)
+- [MMORPG (2024)](./UE/MMORPG/MMORPG.md)
+- [Hospital Rush (2025)](./UE/HospitalRush/HospitalRush.md)
 ### Blender
-- [Cyn](./Blender/Cyn/Cyn.md)
+- [Cyn (2024)](./Blender/Cyn/Cyn.md)
 ### Others
-- [flatcraft](./Autres/flatcraft/flatcraft.md)
-- [Snake Pseudo AI](./Autres/Snake_AI/Snake_AI.md)
-- [BomberStudent](./Autres/BomberMan/bomberman.md)
+- [Snake Pseudo AI (2021)](./Autres/Snake_AI/Snake_AI.md)
+- [flatcraft (2022)](./Autres/flatcraft/flatcraft.md)
+- [BomberStudent (2023)](./Autres/BomberMan/bomberman.md)

@@ -1,7 +1,7 @@
 # Hospital Rush
 
 [Home](../../README.md)
-## Unreal Engine 5 – Solo Project – 2024
+## Unreal Engine 5 – Solo Project – 2025
 
 This project was originally built to meet a school brief: create a small game where ambulances respond to victims randomly scattered around a city. I took the core idea further and turned it into a third-person ambulance management game. The player controls one ambulance, and as the game progresses, can purchase up to three AI-controlled ambulances to help handle the increasing load.
 
