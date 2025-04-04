@@ -17,10 +17,7 @@ Whether it’s gameplay programming, asset creation, or systems design, I’m al
 - [Hospital Rush](./UE/HospitalRush/HospitalRush.md)
 ### Blender
 - [Cyn](./Blender/Cyn/Cyn.md)
-- [Kacy](./Blender/Kacy/Kacy.md)
-- [Robot & Gearone](./Blender/Clockwork_Conundrum/CC.md)
 ### Others
 - [flatcraft](./Autres/flatcraft/flatcraft.md)
 - [Snake Pseudo AI](./Autres/Snake_AI/Snake_AI.md)
 - [BomberStudent](./Autres/BomberMan/bomberman.md)
-- [Taquin](./Autres/Taquin/Taquin.md)
